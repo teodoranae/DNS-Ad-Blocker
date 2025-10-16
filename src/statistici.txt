@@ -1,0 +1,22 @@
+Compania 'facebook' are 0 domenii blocate:
+
+Compania 'google' are 8 domenii blocate:
+  - fundingchoicesmessages.google.com.
+  - googleads.g.doubleclick.net.
+  - pagead2.googlesyndication.com.
+  - tpc.googlesyndication.com.
+  - www.google-analytics.com.
+  - www.googleadservices.com.
+  - www.googletagmanager.com.
+  - www.googletagservices.com.
+
+Compania 'reddit' are 1 domenii blocate:
+  - alb.reddit.com.
+
+Compania 'amazon' are 2 domenii blocate:
+  - c.amazon-adsystem.com.
+  - s.amazon-adsystem.com.
+
+Compania 'linkedin' are 1 domenii blocate:
+  - px.ads.linkedin.com.
+
